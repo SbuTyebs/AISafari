@@ -1,4 +1,4 @@
-# Neuronova Website
+# Neuronova
 
 Welcome to the Neuronova website project, a sleek, AI-powered digital branding agency site designed for startups and businesses seeking innovative, personalized brand experiences.
 
